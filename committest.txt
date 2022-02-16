@@ -1,0 +1,1 @@
+"commitment is the first step to succesfully using git" - Julius Caesar
